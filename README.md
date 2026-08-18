@@ -2,6 +2,8 @@
 
 An end-to-end test automation project built with [Playwright](https://playwright.dev/) against a demo shopping application. It demonstrates the Page Object Model, API-assisted setup (cookie/token injection), network mocking, data-driven tests, and a CI pipeline running in GitHub Actions.
 
+**Note:** This is a practice/exercise project I completed as the final task of a test automation course, built to reinforce and demonstrate what I learned about Playwright and automation testing best practices. It's not a production application.
+
 ## Tech Stack
 
 - [Playwright Test](https://playwright.dev/) (`@playwright/test`)
