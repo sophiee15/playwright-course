@@ -11,6 +11,8 @@ An end-to-end test automation project built with [Playwright](https://playwright
 - `uuid` for generating unique test data (emails/passwords)
 
 ## Project Structure
+
+.
 ├── api-calls/ # Helper functions for calling the app's API directly (e.g. login)
 │ └── getLoginToken.js
 ├── data/ # Static/test data fixtures
